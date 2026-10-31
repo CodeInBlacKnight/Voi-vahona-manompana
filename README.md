@@ -1,37 +1,65 @@
-VOI VAHONA MANOMPANA — SITE WEB
+Voi Vahona Manompana
 
-OUVRIR LE SITE
-- Ouvrir index.html dans un navigateur.
-- Le site est responsive et fonctionne sur téléphone et ordinateur.
-- Une connexion Internet est nécessaire pour les polices Google ; le site reste lisible sans elles.
+Préserver les mangroves, protéger les ressources naturelles et accompagner le développement de la communauté locale.
 
-PHOTOS DÉJÀ INTÉGRÉES
-- images/logo.png
-- images/plantation.jpg
-- images/membres.jpg
-- images/jeune-pousse.jpg
-- images/restauration.jpg
+Bienvenue sur le dépôt officiel du site web de l'association Voi Vahona Manompana, une organisation communautaire située à Manompana, dans le district de Soanierana Ivongo, région Analanjirofo, Madagascar.
 
-PHOTOS À AJOUTER
-Copier les quatre photos reçues plus tard dans le dossier images, en utilisant exactement ces noms :
-- baie.jpeg
-- pêcheur_1.jpeg
-- pêcheur_2.jpeg
-- mangrove-1.jpeg
-- mangrove-2.jpeg
+🌿 À propos de l'association
 
-Le chemin est déjà prévu dans index.html et css/style.css. Attention à conserver exactement les noms (accents compris pour pêcheur_1.jpeg et pêcheur_2.jpeg).
-Les photos de la baie et des pêcheurs sont prévues en format paysage.
+Voi Vahona Manompana œuvre pour la préservation des mangroves et la gestion durable des ressources naturelles terrestres et aquatiques.
 
-PUBLIER AVEC GITHUB PAGES
-1. Créer un dépôt GitHub public.
-2. Envoyer tout le contenu de ce dossier (index.html, css, js, images, README.md) à la racine du dépôt.
-3. Dans Settings > Pages, choisir Deploy from a branch, puis main et /(root), et enregistrer.
+À travers ses initiatives, l'association contribue notamment à :
 
-CONTACT
-Email : voivahona@gmail.com
-Téléphone : +261 34 23 307 21
-Facebook : Voi Vahona Manompana
+- La restauration et la protection des écosystèmes de mangrove.
+- La sensibilisation des communautés à la préservation de l'environnement.
+- La valorisation des ressources naturelles locales.
+- La promotion de l'écotourisme et du développement communautaire.
 
-NOTE SUR LES CHIFFRES
-Les 79 000 m² correspondent aux zones plantées sur sept sites, selon les rapports trimestriels communiqués. Ne pas les présenter comme une superficie totale protégée.
+🌱 Nos actions en quelques chiffres
+
+Les activités de plantation menées en 2026 représentent :
+
+- 79 000 m² de zones plantées.
+- 7 sites concernés par les activités de plantation.
+
+Les plantations se sont déroulées de février à avril 2026, suivies d'activités de restauration entre avril et juillet 2026.
+
+Parmi les espèces de mangroves principalement utilisées figurent Rhizophora mucronata, Bruguiera gymnorhiza et Avicennia marina.
+
+Ces initiatives ont bénéficié de la participation de différents partenaires, notamment la DREED, Sino Hydro et AFAFI-Nord, ainsi que de la collaboration de la commune et du chef de triage, selon les projets concernés.
+
+🌍 À propos de ce site web
+
+Ce site a pour objectif de présenter l'association, ses missions, ses activités et ses initiatives en faveur de la préservation de l'environnement.
+
+Il permet également de faire connaître les actions menées sur le terrain et de faciliter les échanges avec les personnes, organisations et partenaires intéressés par ses activités.
+
+🛠️ Technologies utilisées
+
+Le site est développé avec des technologies web classiques :
+
+- HTML5
+- CSS3
+- JavaScript
+
+Aucun framework ni système backend n'est nécessaire pour son fonctionnement actuel.
+
+📍 Localisation
+
+Voi Vahona Manompana
+Fokontany et Commune de Manompana
+District de Soanierana Ivongo
+Région Analanjirofo
+Madagascar
+
+📩 Nous contacter
+
+Pour toute demande d'information, proposition de collaboration ou partenariat :
+
+- E-mail : voivahona@gmail.com
+- Téléphone : +261 34 23 307 21
+- Facebook : Voi Vahona Manompana
+
+---
+
+VOI Vahona, protégeons la biodiversité.
